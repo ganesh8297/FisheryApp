@@ -1,0 +1,33 @@
+.welcome-back{
+    margin-top: 75px;
+}
+
+.connectivity,.bluetooth-status{
+    color: #645FCB;
+}
+
+.toggle-bluetooth{
+    border-bottom: none !important;
+}
+
+.bluetooth-connection-message{
+    background-image: linear-gradient(315deg, #f0f0f0 0%, #ececec 74%);
+    color: #645FCB;
+    font-size: 14px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+
+
+.user-dropdown{
+    margin-top: 65px;
+    padding-right: 15px;
+}
+
+
+ion-content.background{
+    --background: url(../../assets/background.png) 0 0/100% 100% no-repeat;
+    background: #fff;
+  }
+
+

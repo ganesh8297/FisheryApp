@@ -1,0 +1,58 @@
+.weighter{
+    margin-top: 75px;
+}
+
+.weight-display{
+    background-color: #6863CC;
+    color: white;
+    border-radius: 5px;
+    padding-top: 3px;
+}
+
+.display-date{
+    color: #6863CC;
+    font-size: 14px;
+}
+
+.weighter-details-wrapper{
+    margin-top: 55px;
+}
+
+.select-category{
+    font-size: 14px ;
+    color: #6863CC;
+    
+}
+
+#select-category-dropdown{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 14px
+}
+   
+.dropdown-label{
+    font-size: 12px;
+}
+
+.submit-button{
+    color: white;
+    border-radius: 5px;
+}
+
+.table{
+    font-size: 11.5px;
+    margin-top: 15px;
+}
+
+.trash{
+    color: #6863CC;
+}
+
+.calendar{
+    border: none !important;
+}
+
+ion-content.background{
+    --background: url(../../assets/background.png) 0 0/100% 100% no-repeat;
+    background: #fff;
+  }
